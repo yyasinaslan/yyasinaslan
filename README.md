@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yyasinaslan&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true" alt="yyasinaslan" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyasinaslan&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true" alt="yyasinaslan"  height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=yyasinaslan&show_icons=true&theme=great-gatsby&count_private=false&include_all_commits=true" alt="yyasinaslan" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyasinaslan&show_icons=true&theme=great-gatsby&count_private=false&include_all_commits=true" alt="yyasinaslan"  height="180" />
 </p>
