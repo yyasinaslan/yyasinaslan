@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=yyasinaslan&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true" alt="yyasinaslan" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyasinaslan&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true" alt="yyasinaslan"  height="180" />
 </p>
-
-#### Debounce Signal with milliseconds
-https://gist.github.com/yyasinaslan/1797c6bc632886ad52fe8b73213581cf
